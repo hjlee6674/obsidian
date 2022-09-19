@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "cf1b31f37d9f43dc",
     "type": "split",
     "children": [
@@ -9,12 +10,28 @@
         "state": {
           "type": "empty",
           "state": {}
+=======
+    "id": "5544372f6ec07cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8ce6241512d50e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test note.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> 95d4b35 ('0920')
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "94a845b30b6ac7ae",
     "type": "split",
     "children": [
@@ -24,6 +41,17 @@
         "children": [
           {
             "id": "86a1d732eae3d87b",
+=======
+    "id": "88902092be588399",
+    "type": "split",
+    "children": [
+      {
+        "id": "569cffd2120e13c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa35c68ea70a9196",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,36 +59,57 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9cacd62a30dc295a",
+=======
+            "id": "435d36345818a7b9",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "tag:#labstudy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
+=======
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+>>>>>>> 95d4b35 ('0920')
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "8a7438a1ae8322ea",
+=======
+            "id": "08a476945ace96e3",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> 95d4b35 ('0920')
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "b1419050678ea6b5",
     "type": "split",
     "children": [
@@ -70,10 +119,25 @@
         "children": [
           {
             "id": "7153865035110a56",
+=======
+    "id": "a5000ecde0abce08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4eec83284655c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c120943d071256c",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "test note.md",
+>>>>>>> 95d4b35 ('0920')
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,18 +149,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "dea2e67dbe471fb0",
+=======
+            "id": "3d4657529996157f",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "test note.md",
+>>>>>>> 95d4b35 ('0920')
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "197ab072f0695e48",
+=======
+            "id": "4ca296bddc1a3494",
+>>>>>>> 95d4b35 ('0920')
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,6 +183,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f2ff291f229eb35c",
             "type": "leaf",
             "state": {
@@ -131,4 +208,24 @@
     "Time development operator.md",
     "2022-09-09.md"
   ]
+=======
+            "id": "f61382dd0b0ec51d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab8ce6241512d50e",
+  "lastOpenFiles": []
+>>>>>>> 95d4b35 ('0920')
 }
