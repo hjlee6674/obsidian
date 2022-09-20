@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "cf1b31f37d9f43dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bedf512c8fbb32",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94a845b30b6ac7ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57d13b088690861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a1d732eae3d87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cacd62a30dc295a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#labstudy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a7438a1ae8322ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1419050678ea6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55a082c7cac9b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7153865035110a56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dea2e67dbe471fb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "197ab072f0695e48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2ff291f229eb35c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "01bedf512c8fbb32",
+  "lastOpenFiles": [
+    "2022-09-19.md",
+    "Merzbacher.md",
+    "Bjorken.md",
+    "sakurai.md",
+    "Peskin.md",
+    "Time development operator.md",
+    "2022-09-09.md"
+  ]
+}
