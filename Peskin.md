@@ -1,3 +1,0 @@
-#relativistic
-#quantum
-#fieldtheory

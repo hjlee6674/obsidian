@@ -1,69 +1,29 @@
 {
   "main": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "id": "cf1b31f37d9f43dc",
+    "id": "56ed0438909c9d76",
     "type": "split",
     "children": [
       {
-        "id": "01bedf512c8fbb32",
+        "id": "ded4518e9298d762",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
-=======
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
-    "id": "5544372f6ec07cdb",
-    "type": "split",
-    "children": [
-      {
-        "id": "ab8ce6241512d50e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test note.md",
-            "mode": "source",
-            "source": false
-          }
-<<<<<<< HEAD
->>>>>>> 95d4b35 ('0920')
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "id": "94a845b30b6ac7ae",
+    "id": "2912c57fe9a56986",
     "type": "split",
     "children": [
       {
-        "id": "c57d13b088690861",
+        "id": "2d9962eeb802bad5",
         "type": "tabs",
         "children": [
           {
-            "id": "86a1d732eae3d87b",
-=======
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
-    "id": "88902092be588399",
-    "type": "split",
-    "children": [
-      {
-        "id": "569cffd2120e13c5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa35c68ea70a9196",
-<<<<<<< HEAD
->>>>>>> 95d4b35 ('0920')
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "df601d746627551c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,113 +31,48 @@
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "9cacd62a30dc295a",
-=======
-            "id": "435d36345818a7b9",
->>>>>>> 95d4b35 ('0920')
-=======
-            "id": "435d36345818a7b9",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "edeab42fe98ec05d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "query": "tag:#labstudy",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-=======
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
-                "query": "",
+                "query": "tag:#quantum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-<<<<<<< HEAD
->>>>>>> 95d4b35 ('0920')
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "8a7438a1ae8322ea",
-=======
-            "id": "08a476945ace96e3",
->>>>>>> 95d4b35 ('0920')
-=======
-            "id": "08a476945ace96e3",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "19f0aa171cd07280",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-<<<<<<< HEAD
-<<<<<<< HEAD
-        ],
-        "currentTab": 1
-=======
         ]
->>>>>>> 95d4b35 ('0920')
-=======
-        ]
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "id": "b1419050678ea6b5",
+    "id": "bbd592df58f859a5",
     "type": "split",
     "children": [
       {
-        "id": "a55a082c7cac9b17",
+        "id": "67313e8d5a28654e",
         "type": "tabs",
         "children": [
           {
-            "id": "7153865035110a56",
-=======
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
-    "id": "a5000ecde0abce08",
-    "type": "split",
-    "children": [
-      {
-        "id": "ed4eec83284655c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c120943d071256c",
-<<<<<<< HEAD
->>>>>>> 95d4b35 ('0920')
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "6235a9f9366a9d5c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "test note.md",
->>>>>>> 95d4b35 ('0920')
-=======
-                "file": "test note.md",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,42 +84,18 @@
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "dea2e67dbe471fb0",
-=======
-            "id": "3d4657529996157f",
->>>>>>> 95d4b35 ('0920')
-=======
-            "id": "3d4657529996157f",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "38ce837a262b28d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "test note.md",
->>>>>>> 95d4b35 ('0920')
-=======
-                "file": "test note.md",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "197ab072f0695e48",
-=======
-            "id": "4ca296bddc1a3494",
->>>>>>> 95d4b35 ('0920')
-=======
-            "id": "4ca296bddc1a3494",
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+            "id": "5875ce654a7de7db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -235,42 +106,11 @@
             }
           },
           {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            "id": "f2ff291f229eb35c",
+            "id": "35a0c013e1c5a225",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "active": "01bedf512c8fbb32",
-  "lastOpenFiles": [
-    "2022-09-19.md",
-    "Merzbacher.md",
-    "Bjorken.md",
-    "sakurai.md",
-    "Peskin.md",
-    "Time development operator.md",
-    "2022-09-09.md"
-  ]
-=======
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
-            "id": "f61382dd0b0ec51d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "test note.md"
-              }
             }
           }
         ]
@@ -280,10 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab8ce6241512d50e",
-  "lastOpenFiles": []
-<<<<<<< HEAD
->>>>>>> 95d4b35 ('0920')
-=======
->>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
+  "active": "ded4518e9298d762",
+  "lastOpenFiles": [
+    "Merzbacher.md",
+    "Peskin.md",
+    "sakurai.md",
+    "Bjorken.md",
+    "Time development operator.md"
+  ]
 }
