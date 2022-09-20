@@ -1,6 +1,7 @@
 {
   "main": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "id": "cf1b31f37d9f43dc",
     "type": "split",
     "children": [
@@ -11,6 +12,8 @@
           "type": "empty",
           "state": {}
 =======
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
     "id": "5544372f6ec07cdb",
     "type": "split",
     "children": [
@@ -24,13 +27,17 @@
             "mode": "source",
             "source": false
           }
+<<<<<<< HEAD
 >>>>>>> 95d4b35 ('0920')
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "id": "94a845b30b6ac7ae",
     "type": "split",
@@ -42,6 +49,8 @@
           {
             "id": "86a1d732eae3d87b",
 =======
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
     "id": "88902092be588399",
     "type": "split",
     "children": [
@@ -51,7 +60,10 @@
         "children": [
           {
             "id": "aa35c68ea70a9196",
+<<<<<<< HEAD
 >>>>>>> 95d4b35 ('0920')
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,14 +72,19 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "9cacd62a30dc295a",
 =======
             "id": "435d36345818a7b9",
 >>>>>>> 95d4b35 ('0920')
+=======
+            "id": "435d36345818a7b9",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
 <<<<<<< HEAD
                 "query": "tag:#labstudy",
                 "matchingCase": false,
@@ -75,22 +92,31 @@
                 "collapseAll": false,
                 "extraContext": true,
 =======
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
+<<<<<<< HEAD
 >>>>>>> 95d4b35 ('0920')
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "8a7438a1ae8322ea",
 =======
             "id": "08a476945ace96e3",
 >>>>>>> 95d4b35 ('0920')
+=======
+            "id": "08a476945ace96e3",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,17 +124,22 @@
             }
           }
 <<<<<<< HEAD
+<<<<<<< HEAD
         ],
         "currentTab": 1
 =======
         ]
 >>>>>>> 95d4b35 ('0920')
+=======
+        ]
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "id": "b1419050678ea6b5",
     "type": "split",
@@ -120,6 +151,8 @@
           {
             "id": "7153865035110a56",
 =======
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
     "id": "a5000ecde0abce08",
     "type": "split",
     "children": [
@@ -129,15 +162,22 @@
         "children": [
           {
             "id": "7c120943d071256c",
+<<<<<<< HEAD
 >>>>>>> 95d4b35 ('0920')
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "test note.md",
 >>>>>>> 95d4b35 ('0920')
+=======
+                "file": "test note.md",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,18 +190,26 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "dea2e67dbe471fb0",
 =======
             "id": "3d4657529996157f",
 >>>>>>> 95d4b35 ('0920')
+=======
+            "id": "3d4657529996157f",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "test note.md",
 >>>>>>> 95d4b35 ('0920')
+=======
+                "file": "test note.md",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +217,14 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "197ab072f0695e48",
 =======
             "id": "4ca296bddc1a3494",
 >>>>>>> 95d4b35 ('0920')
+=======
+            "id": "4ca296bddc1a3494",
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,6 +235,7 @@
             }
           },
           {
+<<<<<<< HEAD
 <<<<<<< HEAD
             "id": "f2ff291f229eb35c",
             "type": "leaf",
@@ -209,6 +262,8 @@
     "2022-09-09.md"
   ]
 =======
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
             "id": "f61382dd0b0ec51d",
             "type": "leaf",
             "state": {
@@ -227,5 +282,8 @@
   },
   "active": "ab8ce6241512d50e",
   "lastOpenFiles": []
+<<<<<<< HEAD
 >>>>>>> 95d4b35 ('0920')
+=======
+>>>>>>> 95d4b35a999a79ee50d34b73fe7ec54b1678364c
 }
