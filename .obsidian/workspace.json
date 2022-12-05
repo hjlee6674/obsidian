@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ded4518e9298d762",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Time development operator.md",
-            "mode": "source",
-            "source": false
+        "id": "1940356afc2b9f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ae315e595a76bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#quantum",
+                "query": "tag:#Diakonov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time development operator.md",
+                "file": "Template/Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time development operator.md",
+                "file": "Template/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time development operator.md"
+                "file": "Template/Paper.md"
               }
             }
           }
@@ -128,12 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded4518e9298d762",
+  "active": "48ae315e595a76bc",
   "lastOpenFiles": [
-    "Merzbacher.md",
-    "Time development operator.md",
-    "Peskin.md",
-    "sakurai.md",
-    "Bjorken.md"
+    "A chiral theory of nucleons.md",
+    "test.md",
+    "Template/Paper.md",
+    "Tensor charges and form factors of SU(3) baryons in the self-consistent SU(3) chiral quark-soliton model.md",
+    "Baryon as non-topological chiral solitons.md",
+    "Form factors of the baryon octet in the chiral quark soliton model.md",
+    "Strangeness in the semibosonized Nambu-Jona-Lasinio model.md",
+    "Polarized quark and antiquark distribution functions of the nucleon in the chiral quark-soliton model.md",
+    "Anti-decuplet pentaquarks in the chiral quark soliton model.md",
+    "Angular momentum structure of the nucleon in the chiral quark soliton model.md"
   ]
 }

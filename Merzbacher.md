@@ -1,4 +1,0 @@
-
-#quantum
-
-[[Time development operator]]
